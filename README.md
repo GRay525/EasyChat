@@ -69,7 +69,7 @@ The application automatically creates `easychat_config.ini` which stores:
 
 ## Interface Preview
 
-images/screenshot.png
+screenshot.png
 
 
 ### Key Components
