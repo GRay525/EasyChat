@@ -69,7 +69,9 @@ The application automatically creates `easychat_config.ini` which stores:
 
 ## Interface Preview
 
-<img src="images/screenshot.png" alt="Interface Preview" width="500" height="300">
+<div align="center">
+  <img src="images/main-interface.png" alt="EasyChat Main Interface" width="800">
+</div>
 
 ### Key Components
 - **UI Framework**: Python Tkinter
