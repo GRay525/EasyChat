@@ -69,8 +69,7 @@ The application automatically creates `easychat_config.ini` which stores:
 
 ## Interface Preview
 
-screenshot.png
-
+Screenshot.png
 
 ### Key Components
 - **UI Framework**: Python Tkinter
