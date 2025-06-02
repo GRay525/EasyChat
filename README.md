@@ -70,7 +70,7 @@ The application automatically creates `easychat_config.ini` which stores:
 ## Interface Preview
 
 <div align="center">
-  <img src="images/main-interface.png" alt="EasyChat Main Interface" width="800">
+  <img src="main/main-interface.png" alt="EasyChat Main Interface" width="800">
 </div>
 
 ### Key Components
